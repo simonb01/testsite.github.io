@@ -1,0 +1,400 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/xsl' href='test.xsl'?>
+<Objects>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">UIHistory_20180704_212706_log.txt</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\.cisco\vpn\log</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">05/07/2018 07:27:58</Property>
+    <Property Name="Length" Type="System.Int64">14686</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Simon.contact</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Contacts</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">10/09/2018 09:15:26</Property>
+    <Property Name="Length" Type="System.Int64">68374</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">ipad-backup (VBOXSVR) - Shortcut.lnk</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Desktop</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">13/09/2018 09:22:31</Property>
+    <Property Name="Length" Type="System.Int64">1846</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">iTunes.lnk</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Desktop</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">13/09/2018 09:22:31</Property>
+    <Property Name="Length" Type="System.Int64">1913</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">remote desktop details.txt</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Desktop</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">02/09/2018 10:29:55</Property>
+    <Property Name="Length" Type="System.Int64">123</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">IHS Markit payslips.zip</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Desktop\IHS Markit payslips</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">27/02/2018 13:52:07</Property>
+    <Property Name="Length" Type="System.Int64">527123</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">PdfBuilder-month10.pdf</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Desktop\IHS Markit payslips</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">27/02/2018 13:31:46</Property>
+    <Property Name="Length" Type="System.Int64">136523</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">PdfBuilder-month10A.pdf</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Desktop\IHS Markit payslips</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">27/02/2018 13:32:37</Property>
+    <Property Name="Length" Type="System.Int64">134003</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">PdfBuilder-month11.pdf</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Desktop\IHS Markit payslips</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">27/02/2018 13:33:04</Property>
+    <Property Name="Length" Type="System.Int64">137185</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">PdfBuilder-month6.pdf</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Desktop\IHS Markit payslips</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">27/02/2018 13:43:23</Property>
+    <Property Name="Length" Type="System.Int64">132552</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">PdfBuilder-month7.pdf</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Desktop\IHS Markit payslips</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">27/02/2018 13:43:47</Property>
+    <Property Name="Length" Type="System.Int64">135941</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">PdfBuilder-month8.pdf</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Desktop\IHS Markit payslips</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">27/02/2018 13:29:06</Property>
+    <Property Name="Length" Type="System.Int64">136586</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">PdfBuilder-month9.pdf</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Desktop\IHS Markit payslips</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">27/02/2018 13:30:54</Property>
+    <Property Name="Length" Type="System.Int64">136506</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">04-09-2018-23-19_report.csv</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Documents</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">04/09/2018 23:19:01</Property>
+    <Property Name="Length" Type="System.Int64">5923</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">04-09-2018-23-20_report.csv</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Documents</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">04/09/2018 23:20:39</Property>
+    <Property Name="Length" Type="System.Int64">6081</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">05-09-2018-09-57_report.csv</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Documents</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">05/09/2018 09:57:10</Property>
+    <Property Name="Length" Type="System.Int64">6168</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">06-09-2018-14-15_report.csv</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Documents</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">06/09/2018 14:15:16</Property>
+    <Property Name="Length" Type="System.Int64">6256</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">PowerShell_transcript.20180901220752.txt</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Documents</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">02/09/2018 16:27:49</Property>
+    <Property Name="Length" Type="System.Int64">2181532</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">PowerShell_transcript.20180904110633.txt</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Documents</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">04/09/2018 11:09:24</Property>
+    <Property Name="Length" Type="System.Int64">9046</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">report.xml</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Documents</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">10/09/2018 09:12:13</Property>
+    <Property Name="Length" Type="System.Int64">27429</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">test.ps1</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Documents</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">13/09/2018 09:23:29</Property>
+    <Property Name="Length" Type="System.Int64">1282</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">test.xsl</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Documents</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">06/09/2018 14:23:47</Property>
+    <Property Name="Length" Type="System.Int64">822</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">AKD-73664196896.pdf</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Downloads</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">05/07/2018 09:36:21</Property>
+    <Property Name="Length" Type="System.Int64">103597</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">anytrans-ios-setup.exe</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Downloads</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">06/09/2018 14:30:02</Property>
+    <Property Name="Length" Type="System.Int64">1536928</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">CopyTransDriversInstallerv2.047.zip</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Downloads</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">06/09/2018 14:30:00</Property>
+    <Property Name="Length" Type="System.Int64">11449461</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">imyfone-itransfer_setup.exe</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Downloads</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">13/07/2018 10:35:27</Property>
+    <Property Name="Length" Type="System.Int64">431032</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">iTunes64Setup.exe</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Downloads</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">13/07/2018 10:35:27</Property>
+    <Property Name="Length" Type="System.Int64">263312200</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">license_key.txt</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Downloads</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">05/07/2018 11:32:12</Property>
+    <Property Name="Length" Type="System.Int64">28</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">TreeSizeFreeSetup.exe</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Downloads</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">13/07/2018 10:35:27</Property>
+    <Property Name="Length" Type="System.Int64">7969520</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">CopyTransDriversInstaller.exe</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Downloads\CopyTransDriversInstallerv2.047</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">11/07/2018 10:55:44</Property>
+    <Property Name="Length" Type="System.Int64">11891552</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">libeay32.dll</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Downloads\CopyTransDriversInstallerv2.047</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">11/07/2018 10:55:50</Property>
+    <Property Name="Length" Type="System.Int64">1371136</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">License Agreement.txt</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Downloads\CopyTransDriversInstallerv2.047</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">11/07/2018 10:55:44</Property>
+    <Property Name="Length" Type="System.Int64">113</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">ssleay32.dll</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Downloads\CopyTransDriversInstallerv2.047</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">11/07/2018 10:55:50</Property>
+    <Property Name="Length" Type="System.Int64">337920</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">https--myfreedom.adp.com-.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:06:28</Property>
+    <Property Name="Length" Type="System.Int64">224</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">https--myfreedom.adp.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\Links</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">224</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Suggested Sites.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\Links</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">302</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Web Slice Gallery.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\Links</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">226</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Business Link - the site for business.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\Links for United Kingdom</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">134</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Directgov - the nation's official website.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\Links for United Kingdom</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">134</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">NHS Choices - for health and social care.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\Links for United Kingdom</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">134</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">IE Add-on site.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\Microsoft Websites</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">133</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">IE site on Microsoft.com.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\Microsoft Websites</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">133</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Microsoft At Home.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\Microsoft Websites</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">133</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Microsoft At Work.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\Microsoft Websites</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">133</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Microsoft Store.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\Microsoft Websites</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">134</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">MSN Autos.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\MSN Websites</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">133</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">MSN Entertainment.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\MSN Websites</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">133</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">MSN Money.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\MSN Websites</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">133</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">MSN Sports.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\MSN Websites</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">133</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">MSN.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\MSN Websites</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">133</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">MSNBC News.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\MSN Websites</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">133</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Get Windows Live.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\Windows Live</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">133</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Windows Live Gallery.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\Windows Live</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">133</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Windows Live Mail.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\Windows Live</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">133</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Windows Live Spaces.url</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Favorites\Windows Live</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">12/07/2018 22:14:00</Property>
+    <Property Name="Length" Type="System.Int64">133</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Desktop.lnk</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Links</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">13/09/2018 09:22:15</Property>
+    <Property Name="Length" Type="System.Int64">475</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Downloads.lnk</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Links</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">13/09/2018 09:22:15</Property>
+    <Property Name="Length" Type="System.Int64">890</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">RecentPlaces.lnk</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Links</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">13/09/2018 09:22:15</Property>
+    <Property Name="Length" Type="System.Int64">363</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">iTunes Library Extras.itdb</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Music\iTunes</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">19/08/2018 22:03:39</Property>
+    <Property Name="Length" Type="System.Int64">16384</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">iTunes Library Genius.itdb</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Music\iTunes</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">19/08/2018 21:22:36</Property>
+    <Property Name="Length" Type="System.Int64">32768</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">iTunes Library.itl</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Music\iTunes</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">19/08/2018 22:07:34</Property>
+    <Property Name="Length" Type="System.Int64">5199</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">B77C59594D3FAA29-6038F8E23C01F66A.itc2</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Music\iTunes\Album Artwork\Cache\B77C59594D3FAA29\10\06\06</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">18/08/2018 00:35:28</Property>
+    <Property Name="Length" Type="System.Int64">545192</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">B77C59594D3FAA29-A71617F614C9A1BC.itc2</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Music\iTunes\Album Artwork\Cache\B77C59594D3FAA29\12\11\01</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">11/07/2018 23:36:40</Property>
+    <Property Name="Length" Type="System.Int64">480</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">B77C59594D3FAA29-66860224DFC9408D.itc2</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Music\iTunes\Album Artwork\Cache\B77C59594D3FAA29\13\08\00</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">11/07/2018 23:36:40</Property>
+    <Property Name="Length" Type="System.Int64">480</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">IMG_1011.MOV</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Music\iTunes\iTunes Media\Movies\Unknown Album\Unknown Album</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">18/08/2018 00:33:56</Property>
+    <Property Name="Length" Type="System.Int64">2624846</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Sticky Notes (Windows Sticky Notes).searchconnector-ms</Property>
+    <Property Name="DirectoryName" Type="System.String">C:\Users\Simon\Searches</Property>
+    <Property Name="LastAccessTime" Type="System.DateTime">04/09/2018 19:52:04</Property>
+    <Property Name="Length" Type="System.Int64">933</Property>
+  </Object>
+</Objects>
